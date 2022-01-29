@@ -1,0 +1,13 @@
+.navbar {
+    background-color: blue;
+}
+
+.card-header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.card-body {
+    text-align: center;
+}
