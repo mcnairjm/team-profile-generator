@@ -6,7 +6,6 @@
 
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
   * [Credits](#credits)
   * [Test](#test)
@@ -14,9 +13,6 @@
   
   ## Installation
   Inquirer Required
-  
-  ## Usage
-  undefined
   
   ## License
   Read about MIT here:
